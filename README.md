@@ -162,7 +162,7 @@ Activity levels are represented as:
 * Additional cloud analytics
 * Data logging and historical analysis
 * Improved wearable form factor
-* More robust noise filtering and signal conditioning
+* More robust noise filtering and signal conditionin
 
 ## Applications
 
