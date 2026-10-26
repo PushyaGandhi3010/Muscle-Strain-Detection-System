@@ -172,3 +172,9 @@ Activity levels are represented as:
 * Manual-labor safety
 * Wearable health-monitoring prototypes
 * Preventive muscle overuse monitoring
+
+
+## Contributors
+
+* **Abhi Shah** ([@Abhi191005](https://github.com/Abhi191005)) – Embedded C++ firmware development, ESP32 ADC configuration, moving-average digital filter implementation, real-time strain threshold classification.
+* **Pushya Gandhi** ([@PushyaGandhi3010](https://github.com/PushyaGandhi3010)) – Hardware circuit design & assembly, ThingSpeak cloud telemetry, demonstration, and documentation.
